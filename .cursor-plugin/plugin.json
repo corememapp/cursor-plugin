@@ -1,0 +1,13 @@
+{
+  "name": "coremem",
+  "displayName": "CoreMem",
+  "version": "0.1.0",
+  "description": "Load, search, and update your CoreMem mems directly from Cursor. Relevant context loads automatically so every session starts informed.",
+  "author": {
+    "name": "CoreMem",
+    "email": "hello@coremem.app"
+  },
+  "license": "MIT",
+  "keywords": ["coremem", "mems", "context", "memory", "mcp"],
+  "logo": "assets/logo.svg"
+}

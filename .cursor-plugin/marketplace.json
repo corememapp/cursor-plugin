@@ -1,0 +1,14 @@
+{
+  "name": "coremem",
+  "owner": {
+    "name": "CoreMem",
+    "email": "hello@coremem.app"
+  },
+  "plugins": [
+    {
+      "name": "coremem",
+      "source": ".",
+      "description": "Load, search, and update your CoreMem mems directly from Cursor."
+    }
+  ]
+}
